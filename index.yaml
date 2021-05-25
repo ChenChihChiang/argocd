@@ -3,11 +3,11 @@ entries:
   nginx:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-05-26T00:00:47.017687+08:00"
+    created: "2021-05-26T01:07:44.240684+08:00"
     description: A Helm chart for Kubernetes
     digest: e39c718a0d54fd9fa492cc44bc2933f0dd0b45f1b0c91e70bf3943d2d31825ed
     name: nginx
     urls:
-    - https://github.com/ChenChihChiang/argocd/nginx-0.1.0.tgz
+    - https://ChenChihChiang/argocd/nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-26T00:00:47.013948+08:00"
+generated: "2021-05-26T01:07:44.236146+08:00"
